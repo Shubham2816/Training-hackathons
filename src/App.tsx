@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { ThemeProvider } from "./contexts/ThemeContext"
 import ThemeToggle from "./components/ThemeToggle"
 import { trainings, certifications, categories } from "./data/mockData"
